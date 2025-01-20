@@ -7,7 +7,6 @@ const nextConfig = {
     unoptimized: true,
   },
   distDir: 'build',
-  transpilePackages: ['@mui/x-charts']
 }
 
 module.exports = nextConfig
